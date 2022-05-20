@@ -1,0 +1,275 @@
+C:\Users\rodrigo\AppData\Local\Temporary Projects\plataforma\bin\Debug\plataforma.exe.config
+C:\Users\rodrigo\AppData\Local\Temporary Projects\plataforma\bin\Debug\plataforma.exe
+C:\Users\rodrigo\AppData\Local\Temporary Projects\plataforma\bin\Debug\plataforma.pdb
+C:\Users\rodrigo\AppData\Local\Temporary Projects\plataforma\bin\Debug\plataforma.xml
+C:\Users\rodrigo\AppData\Local\Temporary Projects\plataforma\obj\Debug\plataforma.Form1.resources
+C:\Users\rodrigo\AppData\Local\Temporary Projects\plataforma\obj\Debug\plataforma.Resources.resources
+C:\Users\rodrigo\AppData\Local\Temporary Projects\plataforma\obj\Debug\plataforma.vbproj.GenerateResource.Cache
+C:\Users\rodrigo\AppData\Local\Temporary Projects\plataforma\obj\Debug\plataforma.exe
+C:\Users\rodrigo\AppData\Local\Temporary Projects\plataforma\obj\Debug\plataforma.xml
+C:\Users\rodrigo\AppData\Local\Temporary Projects\plataforma\obj\Debug\plataforma.pdb
+E:\año 2016\sistema\visual 2012\plataforma\plataforma\bin\Debug\plataforma.exe.config
+E:\año 2016\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.exe
+E:\año 2016\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.xml
+E:\año 2016\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.pdb
+E:\año 2016\sistema\visual 2012\plataforma\plataforma\bin\Debug\plataforma.exe
+E:\año 2016\sistema\visual 2012\plataforma\plataforma\bin\Debug\plataforma.pdb
+E:\año 2016\sistema\visual 2012\plataforma\plataforma\bin\Debug\plataforma.xml
+E:\año 2016\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.Form1.resources
+E:\año 2016\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.Resources.resources
+E:\año 2016\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmIngreso.resources
+E:\año 2016\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.vbproj.GenerateResource.Cache
+E:\año 2016\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmPersonal.resources
+E:\año 2016\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmRegistroP.resources
+E:\año 2016\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.pruevaCamara.resources
+E:\año 2016\sistema\visual 2012\plataforma\plataforma\bin\Debug\WebCAM.dll
+E:\año 2016\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmSelecioMesas.resources
+E:\año 2016\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmPedidos.resources
+E:\año 2016\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.vbprojResolveAssemblyReference.cache
+E:\año 2016\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmTotalMesa.resources
+I:\rodri\sistema\visual 2012\plataforma\plataforma\bin\Debug\plataforma.exe.config
+I:\rodri\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.exe
+I:\rodri\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.xml
+I:\rodri\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.pdb
+I:\rodri\sistema\visual 2012\plataforma\plataforma\bin\Debug\plataforma.exe
+I:\rodri\sistema\visual 2012\plataforma\plataforma\bin\Debug\plataforma.pdb
+I:\rodri\sistema\visual 2012\plataforma\plataforma\bin\Debug\plataforma.xml
+I:\rodri\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.vbprojResolveAssemblyReference.cache
+I:\rodri\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.Form1.resources
+I:\rodri\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmKardex.resources
+I:\rodri\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.Resources.resources
+I:\rodri\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmPersonal.resources
+I:\rodri\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmRegistroP.resources
+I:\rodri\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.pruevaCamara.resources
+I:\rodri\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmIngreso.resources
+I:\rodri\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmPedidos.resources
+I:\rodri\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmSelecioMesas.resources
+I:\rodri\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmTotalMesa.resources
+I:\rodri\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.vbproj.GenerateResource.Cache
+E:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\bin\Debug\plataforma.exe.config
+E:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.exe
+E:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.xml
+E:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.pdb
+E:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\bin\Debug\plataforma.exe
+E:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\bin\Debug\plataforma.pdb
+E:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\bin\Debug\plataforma.xml
+E:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.Form1.resources
+E:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmKardex.resources
+E:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.Resources.resources
+E:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmPersonal.resources
+E:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmRegistroP.resources
+E:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.pruevaCamara.resources
+E:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmIngreso.resources
+E:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmPedidos.resources
+E:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmSelecioMesas.resources
+E:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmTotalMesa.resources
+E:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.vbproj.GenerateResource.Cache
+E:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmProducto.resources
+E:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmCompraProducto.resources
+E:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmProveedor.resources
+E:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmSalidaProducto.resources
+E:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmRegistroPlatos.resources
+E:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmResta.resources
+E:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmCantidad.resources
+E:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.FrmBusProveedor.resources
+E:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.FrmBusProducto.resources
+E:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmAdministracion.resources
+E:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.FrmModuloAlmacen.resources
+E:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.FrmModuloPersonal.resources
+E:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.FrmModuloRegistroMenus.resources
+E:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.FrmModuloVentas.resources
+E:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmBusquedaPLato.resources
+E:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.vbprojResolveAssemblyReference.cache
+E:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmClaveAcceso.resources
+E:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.FrmDatosPlato.resources
+E:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmAccesoInventario.resources
+E:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmCobrarPedido.resources
+E:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmReporteventa.resources
+E:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\RdlCompile.cache
+E:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\RdlCompile.compiled
+E:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmReporteMozoV.resources
+E:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmventaPorMozo.resources
+E:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmProductoMozo.resources
+E:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmVentaProductos.resources
+E:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.FrmMozoVentaProducto.resources
+E:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.FrmReporteVentasProductos.resources
+E:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.FrmFactura.resources
+E:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.FrmHorarioPersonal.resources
+E:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmVentasFactura.resources
+E:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmRepFactura.resources
+E:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmcontrol_personal.resources
+E:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmaperturaCaja.resources
+E:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmCierreCaja.resources
+E:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmcompraPro.resources
+E:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.Repcompra.resources
+E:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmreportePedido.resources
+E:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmrepPedidoPer.resources
+D:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\bin\Debug\plataforma.exe.config
+D:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.exe
+D:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.xml
+D:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.pdb
+D:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\bin\Debug\plataforma.exe
+D:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\bin\Debug\plataforma.pdb
+D:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\bin\Debug\plataforma.xml
+D:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.vbprojResolveAssemblyReference.cache
+D:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmAdministracion.resources
+D:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.FrmModuloAlmacen.resources
+D:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.FrmModuloPersonal.resources
+D:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.FrmModuloRegistroMenus.resources
+D:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.FrmModuloVentas.resources
+D:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.FrmBusProducto.resources
+D:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.FrmBusProveedor.resources
+D:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmBusquedaPLato.resources
+D:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmcompraPro.resources
+D:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmreportePedido.resources
+D:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmVentasFactura.resources
+D:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmProductoMozo.resources
+D:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmventaPorMozo.resources
+D:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmVentaProductos.resources
+D:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.Form1.resources
+D:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmAccesoInventario.resources
+D:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmCompraProducto.resources
+D:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmKardex.resources
+D:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmProducto.resources
+D:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmProveedor.resources
+D:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmRegistroPlatos.resources
+D:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmResta.resources
+D:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmSalidaProducto.resources
+D:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.Resources.resources
+D:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmClaveAcceso.resources
+D:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmcontrol_personal.resources
+D:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.FrmHorarioPersonal.resources
+D:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmPersonal.resources
+D:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmRegistroP.resources
+D:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.pruevaCamara.resources
+D:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmaperturaCaja.resources
+D:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmCantidad.resources
+D:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmCierreCaja.resources
+D:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmCobrarPedido.resources
+D:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.FrmDatosPlato.resources
+D:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmIngreso.resources
+D:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmPedidos.resources
+D:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmSelecioMesas.resources
+D:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmTotalMesa.resources
+D:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmfactura.resources
+D:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.FrmMozoVentaProducto.resources
+D:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmRepFactura.resources
+D:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmReporteMozoV.resources
+D:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmReporteventa.resources
+D:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.FrmReporteVentasProductos.resources
+D:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmrepPedidoPer.resources
+D:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.Repcompra.resources
+D:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.vbproj.GenerateResource.Cache
+D:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\RdlCompile.cache
+D:\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\RdlCompile.compiled
+F:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\bin\Debug\plataforma.exe.config
+F:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.exe
+F:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.xml
+F:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.pdb
+F:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\bin\Debug\plataforma.exe
+F:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\bin\Debug\plataforma.pdb
+F:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\bin\Debug\plataforma.xml
+F:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.vbprojResolveAssemblyReference.cache
+F:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmAdministracion.resources
+F:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.FrmModuloAlmacen.resources
+F:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.FrmModuloPersonal.resources
+F:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.FrmModuloRegistroMenus.resources
+F:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.FrmModuloVentas.resources
+F:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.FrmBusProducto.resources
+F:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.FrmBusProveedor.resources
+F:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmBusquedaPLato.resources
+F:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmcompraPro.resources
+F:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmreportePedido.resources
+F:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmVentasFactura.resources
+F:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmProductoMozo.resources
+F:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmventaPorMozo.resources
+F:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmVentaProductos.resources
+F:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.Form1.resources
+F:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmAccesoInventario.resources
+F:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmCompraProducto.resources
+F:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmKardex.resources
+F:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmProducto.resources
+F:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmProveedor.resources
+F:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmRegistroPlatos.resources
+F:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmResta.resources
+F:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmSalidaProducto.resources
+F:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.Resources.resources
+F:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmClaveAcceso.resources
+F:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmcontrol_personal.resources
+F:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.FrmHorarioPersonal.resources
+F:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmPersonal.resources
+F:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmRegistroP.resources
+F:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.pruevaCamara.resources
+F:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmaperturaCaja.resources
+F:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmCantidad.resources
+F:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmCierreCaja.resources
+F:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmCobrarPedido.resources
+F:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.FrmDatosPlato.resources
+F:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmIngreso.resources
+F:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmPedidos.resources
+F:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmSelecioMesas.resources
+F:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmTotalMesa.resources
+F:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmfactura.resources
+F:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.FrmMozoVentaProducto.resources
+F:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmRepFactura.resources
+F:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmReporteMozoV.resources
+F:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmReporteventa.resources
+F:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.FrmReporteVentasProductos.resources
+F:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmrepPedidoPer.resources
+F:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.Repcompra.resources
+F:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.vbproj.GenerateResource.Cache
+F:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\RdlCompile.cache
+F:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\RdlCompile.compiled
+D:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.vbproj.AssemblyReference.cache
+D:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmAdministracion.resources
+D:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.FrmModuloAlmacen.resources
+D:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.FrmModuloPersonal.resources
+D:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.FrmModuloRegistroMenus.resources
+D:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.FrmModuloVentas.resources
+D:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.FrmBusProducto.resources
+D:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.FrmBusProveedor.resources
+D:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmBusquedaPLato.resources
+D:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmcompraPro.resources
+D:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmreportePedido.resources
+D:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmVentasFactura.resources
+D:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmProductoMozo.resources
+D:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmventaPorMozo.resources
+D:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmVentaProductos.resources
+D:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.Form1.resources
+D:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmAccesoInventario.resources
+D:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmCompraProducto.resources
+D:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmKardex.resources
+D:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmProducto.resources
+D:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmProveedor.resources
+D:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmRegistroPlatos.resources
+D:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmResta.resources
+D:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmSalidaProducto.resources
+D:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.Resources.resources
+D:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmClaveAcceso.resources
+D:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmcontrol_personal.resources
+D:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.FrmHorarioPersonal.resources
+D:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmPersonal.resources
+D:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmRegistroP.resources
+D:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.pruevaCamara.resources
+D:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmaperturaCaja.resources
+D:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmCantidad.resources
+D:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmCierreCaja.resources
+D:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmCobrarPedido.resources
+D:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.FrmDatosPlato.resources
+D:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmIngreso.resources
+D:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmPedidos.resources
+D:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmSelecioMesas.resources
+D:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmTotalMesa.resources
+D:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmfactura.resources
+D:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.FrmMozoVentaProducto.resources
+D:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmRepFactura.resources
+D:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmReporteMozoV.resources
+D:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmReporteventa.resources
+D:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.FrmReporteVentasProductos.resources
+D:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.frmrepPedidoPer.resources
+D:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.Repcompra.resources
+D:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.vbproj.GenerateResource.cache
+D:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.vbproj.CoreCompileInputs.cache
+D:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.exe
+D:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.xml
+D:\backap1\año 2016\MIPROYECTO\sistema\visual 2012\plataforma\plataforma\obj\Debug\plataforma.pdb
